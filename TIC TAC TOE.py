@@ -1,7 +1,3 @@
-
-
-
-
 current_player="A"
 gameisgoing=True
 winner=None
